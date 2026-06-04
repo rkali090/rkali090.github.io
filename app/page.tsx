@@ -23,7 +23,7 @@ export default function Home() {
           </div>
           <a
             className="rounded-2xl border border-cyan-400/30 bg-cyan-400/10 p-5 text-left transition hover:border-cyan-300/70 hover:bg-cyan-400/15"
-            href="/tutorials/twitter-lead-gen/"
+            href="/tutorials/twitter-lead-gen"
           >
             <h2 className="font-semibold text-cyan-200">New tutorial</h2>
             <p className="mt-2 text-sm text-slate-300">Learn ethical lead generation from Twitter/X conversations.</p>
